@@ -1,1 +1,4 @@
-abc
+pandas
+numpy
+matplotlib
+scikit-learn
